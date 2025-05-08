@@ -1,6 +1,5 @@
 document.addEventListener('DOMContentLoaded', () => {
     initTheme();
-    document.getElementById('current-year').textContent = new Date().getFullYear();    
 
     const reachOutBtn = document.getElementById('reach-out-btn');
     if (reachOutBtn) {
