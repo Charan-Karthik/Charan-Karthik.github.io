@@ -283,13 +283,6 @@ h3 {
     margin-top: var(--spacing-sm);
 }
 
-/* .social-links {
-    display: flex;
-    justify-content: flex-start;
-    gap: var(--spacing-xl);
-    margin: var(--spacing-lg) 0;
-} */
-
 .social-bullet-links {
     list-style: none;
     padding: 0;
